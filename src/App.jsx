@@ -50,7 +50,7 @@ import ProductTour from "./pages/resources/ProductTour";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/infoz-hrms">
      <ScrollToTop />
       <Routes>
 
